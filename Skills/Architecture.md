@@ -2,8 +2,6 @@
 
 - Application structure
   - Modularity
-  - Components
-  - SOLID
   - Flexibility
 - Application architecture
 - Solution architecture
