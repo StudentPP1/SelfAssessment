@@ -1,79 +1,79 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model k
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm k
+  - Syntax k
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
+  - Abstraction k
+  - Paradigm k
+  - Programm k
   - Programming paradigm
   - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Contract k
+  - Module k
+  - Library k
+  - Package k
+  - Component k
+  - Framework k
   - Platform
-  - Source code
+  - Source code k
   - Object code
-  - Machine code
+  - Machine code k
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering k
+  - Decomposition k
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) k
+  - KISS principle k
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value k
+  - Identifier k
+  - Variable k
+  - Constant k
+  - Scalar k
   - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Expression k
+  - Heap k
+  - Function k
+  - Procedure k
+  - Method k
+  - Class k
+  - Prototype k
+  - Event h
+  - Type k
+  - Flag k
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
+  - Code block k
+  - Conditions k
+  - Loops k
   - Assignment
   - Regular expression
-  - Interface
+  - Interface k
   - Namespaces
-  - Call stack
-  - Naming conventions
+  - Call stack k
+  - Naming conventions k
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case k
+  - Snake case k
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types k
+  - Reference types k
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing k
+  - Dynamic typing k
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,20 +81,20 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature k
+  - Argument k
+  - Parameter k
   - Pure function
-  - Lambda expression
+  - Lambda expression k
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion k
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback k
+  - Listener k
   - Composition
   - Pipe
   - Memoize
@@ -102,33 +102,33 @@
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator k
   - Coroutine
 - Data structures
-  - Array
+  - Array k
   - Structure
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Enum k
+  - Instance k
+  - Object k
+  - Collection k
+  - Set k
+  - Hash table k
+  - Linked list k
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue k
+  - Stack k
   - Deque
   - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Graph k
+  - Iterator k
+  - Mutable state k
+  - Immutable state k
+  - Serialization k
+  - String parsing k
+  - JSON k
   - JSON5
   - YAML
 - Networking
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL k
   - URN
   - URI
 - Process and tools
@@ -157,22 +157,22 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger k
   - Tracing
-  - Garbage collection
-  - Refactoring
+  - Garbage collection k
+  - Refactoring k
   - Code review
-  - Exception
+  - Exception k
   - Unittesting
-  - git
-  - Github
+  - git k
+  - Github k
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers k
+  - Hard code k
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -218,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows h
   - Real-time OS
   - Embedded OS
 - Standards
@@ -228,12 +228,12 @@
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 h
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG

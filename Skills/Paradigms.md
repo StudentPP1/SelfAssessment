@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -23,30 +23,30 @@
   - Lambda calculus
   - Black box
   - Information hiding
-  - Aspect-oriented programming
+  - Aspect-oriented programming k
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method h
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations k
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
+  - Interface u
+  - Encapsulation u
   - Hidden class
   - Object form
   - Instance
   - Introspection
-  - Reflection
+  - Reflection k
   - The diamond problem
 - GRASP
   - Information expert
@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
+  - Singleton k
+  - Factory Method k
+  - Abstract Factory k
+  - Adapter k
+  - Observer k
+  - Strategy k
+  - Facade k
+  - Proxy k
+  - Chain of Responsibility k
+  - Command k
+  - Iterator k
+  - State k
+  - Bridge k
+  - Builder k
+  - Prototype k
+  - Composite k
+  - Decorator k
+  - Flyweight k
+  - Mediator k
   - Memento
-  - Template Method
-  - Visitor
+  - Template Method k
+  - Visitor k
   - Reactor
   - Active object
   - Delegation

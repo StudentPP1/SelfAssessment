@@ -10,7 +10,7 @@
   - GRASP
   - SOLID
   - CQS
-  - Modularity
+  - Modularity h
   - Subsystems
   - Directories
   - Leaking abstractions
@@ -26,7 +26,7 @@
   - Reliability
   - Quality
   - Availability
-  - Flexibility
+  - Flexibility h
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
